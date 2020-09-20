@@ -1,0 +1,2 @@
+include ':app', ':toasterlibrary'
+rootProject.name='Simple_Toast_Android_Library'
